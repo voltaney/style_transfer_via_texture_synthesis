@@ -1,7 +1,7 @@
 # Paper Implementation
-The following two papers have been implemented.
-
-Some of the implementations are incomplete or have additional methods that are not in the papers.
+I have implemented the main parts of the following two papers.
+"Style Transfer" uses the same method as "Texture Synthesis", so I have combined them into one module.
+The purpose of this repository is to see what results can be obtained from the methods in the papers.
 
 - V. Kwatra, I. Essa, A. Bobick and N. Kwatra, "Texture optimization for example-based synthesis", ACM Trans. Graph., vol. 24, no. 3, pp. 795-802, 2005.
 - M. Elad and P. Milanfar, "Style Transfer Via Texture Synthesis," in IEEE Transactions on Image Processing, vol. 26, no. 5, pp. 2338-2351, May 2017.
