@@ -16,6 +16,7 @@ See or run `test_texture_synthesis.py`.
 
 ### Not implemented method (propsed in the paper)
 - Call-off function applied to the patch during the EM algorithm in the paper.
+- Flow-guided synthesis
 
 ## Style Transfer Via Texture Synthesis
 | Content | Style | Result |
