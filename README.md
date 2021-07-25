@@ -30,3 +30,4 @@ See or run `test_style_transfer.py`.
     - Instead, using edge detection to calculate the weights and fuse contents.
 - Denoise by domain-transform
 - ANN using PCA
+    - Instead, "NN using hierarchical clustering" and "ANN using FAISS" are implemented.
