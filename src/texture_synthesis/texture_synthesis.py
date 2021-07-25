@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-from numpy.core.fromnumeric import _resize_dispatcher
 from ..common.pyramid import get_pyramid
 from ..common.patch_aggregation import extract_patches, l2_norm_aggregate, lp_norm_irls_aggregate
 from ..common.patch_aggregation.patch_provider import RandomPick, HierarchicalNN, FaissANN, NN

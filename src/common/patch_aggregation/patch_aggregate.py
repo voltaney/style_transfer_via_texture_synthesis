@@ -1,6 +1,6 @@
 import numpy as np
 
-from ..patch_aggregation.extract_patches import extract_patches
+from .extract_patches import extract_patches
 
 # avoid zero division
 NOISE = 0.000001
