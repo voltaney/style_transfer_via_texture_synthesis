@@ -7,9 +7,9 @@ Some of the implementations are incomplete or have additional methods that are n
 - M. Elad and P. Milanfar, "Style Transfer Via Texture Synthesis," in IEEE Transactions on Image Processing, vol. 26, no. 5, pp. 2338-2351, May 2017
 
 # Texture optimization for example-based synthesis
-## Result
-![input_sample](test_images/texture_synthesis/input_sample/wara.jpg "input_sample")
-![output](test_images/texture_synthesis/output/wara.jpg "output")
+| Input sample | Output |
+----| ---- 
+|![input_sample](test_images/texture_synthesis/input_sample/wara.jpg "input_sample") | ![output](test_images/texture_synthesis/output/wara.jpg "output")|
 
 ## How to use
 See or run `test_texture_synthesis.py`.
@@ -18,10 +18,9 @@ See or run `test_texture_synthesis.py`.
 - Call-off function applied to the patch during the EM algorithm in the paper.
 
 # Style Transfer Via Texture Synthesis
-## Result
-<img src="test_images/style_transfer/content/city_river.jpg" width="200">
-<img src="test_images/style_transfer/style/van_gogh_starry.jpg" width="200">
-<img src="test_images/style_transfer/output/result.jpg" width="200">
+| Content | Style | Result |
+----| ---- | ----
+| <img src="test_images/style_transfer/content/city_river.jpg" width="200"/> | <img src="test_images/style_transfer/style/van_gogh_starry.jpg" width="200"/> | <img src="test_images/style_transfer/output/result.jpg" width="200"/>|
 
 ## How to use
 See or run `test_style_transfer.py`.
