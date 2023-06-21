@@ -1,5 +1,5 @@
 # Paper Implementation
-The main parts of the following two papers, "Style Transfer" and "Texture Synthesis".
+Implementation of the main parts of the following two papers, "Style Transfer" and "Texture Synthesis".
 The purpose of this repository is just to see what results can be obtained from the methods in the papers.
 
 - V. Kwatra, I. Essa, A. Bobick and N. Kwatra, "Texture optimization for example-based synthesis", ACM Trans. Graph., vol. 24, no. 3, pp. 795-802, 2005.
